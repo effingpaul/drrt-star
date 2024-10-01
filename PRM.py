@@ -2,7 +2,7 @@ import numpy as np
 from mapUtils import readMap
 from math import sqrt, atan2, sin, cos
 
-map = readMap('map.txt')
+map = readMap('map3.txt')
 
 np.random.seed(100)
 
